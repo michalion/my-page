@@ -755,6 +755,10 @@ h2.skill-category {
     font-weight: 0;
 }
 
+h3.skill-category {
+  text-decoration: underline;
+}
+
 
 /* responsive video */
 
